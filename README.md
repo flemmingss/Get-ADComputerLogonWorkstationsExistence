@@ -22,6 +22,10 @@ Run function:
 Get-ADComputerLogonWorkstationsExistence -User *Username*
 ```
 
+**Screenshots**  
+
+![alt tag](images/example_1.png)
+
 **Changelog**  
 * 02.12.2020
     * Release
